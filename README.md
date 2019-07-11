@@ -1,6 +1,6 @@
 ## Introduction
 
-Due to outdated tutorials, I created a working implementation of Slate (as of 7/2/2019). 
+A working implementation of React Slate w/ functioning toolbars and hotkeys.
 
 ![alt text](/assets/img/slate.png)
 
